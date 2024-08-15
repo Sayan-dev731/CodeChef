@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true
+}
